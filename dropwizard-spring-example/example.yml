@@ -1,0 +1,3 @@
+springConfiguration:
+  javaConfig: false
+  contextConfigLocation: ['classpath:applicationContext.xml', 'classpath:security.xml']
